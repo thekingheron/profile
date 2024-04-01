@@ -11,12 +11,12 @@ iamkingheron@gmail.com</ a></strong></p>
 
 <h3 align="left">Connect with me:</h3>
   <a
-    href="https://www.linkedin.com/in/heron-santos-436a42181"
+    href="https://www.linkedin.com/in/heron-santos-8a70a1296/"
     target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="https://www.linkedin.com/in/heron-santos-8a70a1296"
+      alt="https://www.linkedin.com/in/heron-santos-8a70a1296/"
       height="30"
       width="40"
   /></a>
