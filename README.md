@@ -16,7 +16,7 @@ iamkingheron@gmail.com</ a></strong></p>
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="https://www.linkedin.com/in/heron-santos-436a42181"
+      alt="https://www.linkedin.com/in/heron-santos-8a70a1296"
       height="30"
       width="40"
   /></a>
