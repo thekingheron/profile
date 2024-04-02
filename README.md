@@ -7,7 +7,7 @@
 <p>- 👨‍🎓 Graduated from UFBA </p>
 <p>- 💻 What do I currently work with? <strong>Node.js</strong> -  <strong>JavaScript</strong> - <strong>Python</strong> </p> 
 <p>- 📩 You can reach me at <strong><a href="mailto:agenciaanonimatto@gmail.com?subject=Hello,%20Heron">
-iamkingheron@gmail.com</ a></strong></p>
+agenciaanonimatto@gmail.com</ a></strong></p>
 
 <h3 align="left">Connect with me:</h3>
   <a
